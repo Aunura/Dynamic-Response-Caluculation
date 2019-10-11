@@ -1,4 +1,10 @@
 # Dynamic-Response-Caluculation
 
 
-A solver for cummins equations coupled with LMM Mooring Model
+A solver for Ma+Cv+Kx=F(t) equation including following methods：
+
+Centre difference
+Newmark Beta
+Wilson Theta
+Houblt
+RungeKuttaIV
